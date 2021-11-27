@@ -49,7 +49,7 @@ const App = () => {
 
   useEffect( () => {
     updateNotes();
-  }, [] );
+  }, );
 
   return (
     <div className="app">
