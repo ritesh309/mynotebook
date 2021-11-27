@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app {
+  background-image: linear-gradient(
+    to right,
+    rgb(242, 112, 156),
+    rgb(104, 190, 248)
+  );
+  min-height: 100vh;
+  width: 100vw;
+  align-items: center;
+}
+.note-section {
+  padding: 15px;
+}

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Comfortaa", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgba(29, 56, 177, 0.637)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
